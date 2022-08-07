@@ -1,0 +1,20 @@
+{
+  "name": "laboratory-kong",
+  "version": "1.0.0",
+  "description": "- [Kong Docker compose](https://github.com/Kong/docker-kong/blob/master/compose/docker-compose.yml)",
+  "main": "index.js",
+  "scripts": {
+    "start": "docker-compose --env-file .env up -d --build",
+    "stop": "docker-compose --env-file .env down"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://justalk: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@github.com/justalk/LABORATORY-KONG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justalk/LABORATORY-KONG/issues"
+  },
+  "homepage": "https://github.com/justalk/LABORATORY-KONG#readme"
+}

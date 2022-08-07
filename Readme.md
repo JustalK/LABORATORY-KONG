@@ -1,0 +1,4 @@
+- Why can I not setup kong and konga in the same database ?
+- Why can i not use konga in production ?
+- How do you setup the beginning og kong ?
+- Why user data are not persisted ?
